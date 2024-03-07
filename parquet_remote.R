@@ -1,5 +1,6 @@
 # test different ways to connect to remote parquet files
 
+
 # version 1 ---------------------------------------------------------------
 # https://rfsaldanha.github.io/posts/query_remot_parquet_file.html
 parquet_url <- "https://github.com/rfsaldanha/releases/releases/download/v1/flights.parquet"
